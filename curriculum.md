@@ -63,8 +63,8 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 | [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to spot a data charlatan](https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to Add Value as a Data Analyst](https://towardsdatascience.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| Data Visualization with Python  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | Data Visualization Theory  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| Data Visualization with Python  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | Statistics Fundamentals with Python  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | Analytic Fundamentals  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | **Project: Data Visualization**  | Project  | You  | Deepnote  | 2.00  | Free  |
