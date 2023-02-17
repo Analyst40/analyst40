@@ -17,7 +17,7 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 | How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | analyst40.com  | 0.20  | [Included in Analyst40](https://analyst40.com/)  |
 | **Project: SQL Data Analysis**  | Project  | You  | Deepnote  | 1.00  | Free  |
 | How to Create a Data Analyst Portfolio That Gets You Noticed  | PDF  | David Venturi  | analyst40.com  | 0.05  | [Included in Analyst40](https://analyst40.com/)  |
-| **Project: Start Your GitHub Portfolio**  | Project  | You  | GitHub  | 0.10  | Free  |
+| **Project: Start Building Your Online Presence**  | Project  | You  | GitHub  | 0.10  | Free  |
 |   |   |   |   | **4.00**  |   |
 
 
