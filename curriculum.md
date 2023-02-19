@@ -26,8 +26,8 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
 | Introduction to Data Science in Python  | Course  | Hillary Green-Lerman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription]()  |
-| [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription]()  |
+| [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
+| [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
 | [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | Python Programming  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | **Project: Python Programming**  | Project  | You  | Deepnote  | 2.00  | Free  |
