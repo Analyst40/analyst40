@@ -10,9 +10,9 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 |---|---|---|---|---|---|
 | Welcome to Analyst40  | Email  | David Venturi  | analyst40.com  | 0.05  | [Included in Analyst40](https://analyst40.com/)  |
 | [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| Data Analysis in Excel  | Course  | Jen Bricker  | DataCamp  | 1.00  | [DataCamp subscription]()  |
+| Data Analysis in Excel  | Course  | Jen Bricker  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | Introduction to SQL  | Course  | Izzy Weber  | DataCamp  | 0.50  | Free  |
-| Intermediate SQL  | Course  | Jasmin Ludolf  | DataCamp  | 1.00  | [DataCamp subscription]()  |
+| Intermediate SQL  | Course  | Jasmin Ludolf  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | Data Analysis in SQL (PostgreSQL)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | analyst40.com  | 0.20  | [Included in Analyst40](https://analyst40.com/)  |
 | **Project: SQL Data Analysis**  | Project  | You  | Deepnote  | 1.00  | Free  |
@@ -25,7 +25,7 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
-| Introduction to Data Science in Python  | Course  | Hillary Green-Lerman  | DataCamp  | 1.00  | [DataCamp subscription]()  |
+| Introduction to Data Science in Python  | Course  | Hillary Green-Lerman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription]()  |
 | [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription]()  |
 | [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
@@ -37,12 +37,12 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
-| Chapters 1, 2 & 4 of Streamlined Data Ingestion with pandas  | Course  | Amany Mahfouz  | DataCamp  | 0.75  | [DataCamp subscription]()  |
-| Web Scraping in Python  | Course  | Thomas Laetsch  | DataCamp  | 1.00  | [DataCamp subscription]()  |
-| Data Manipulation with pandas  | Course  | Richie Cotton, Maggie Matsui  | DataCamp  | 1.00  | [DataCamp subscription]()  |
-| Joining Data with pandas  | Course  | Aaren Stubberfield  | DataCamp  | 1.00  | [DataCamp subscription]()  |
-| Introduction to Statistics in Python  | Course  | Maggie Matsui  | DataCamp  | 1.00  | [DataCamp subscription]()  |
-| Exploring and Analyzing Data in Python  | Course  | Izzy Weber, George Boorman  | DataCamp  | 1.00  | [DataCamp subscription]()  |
+| Chapters 1, 2 & 4 of Streamlined Data Ingestion with pandas  | Course  | Amany Mahfouz  | DataCamp  | 0.75  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Web Scraping in Python  | Course  | Thomas Laetsch  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Data Manipulation with pandas  | Course  | Richie Cotton, Maggie Matsui  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Joining Data with pandas  | Course  | Aaren Stubberfield  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Introduction to Statistics in Python  | Course  | Maggie Matsui  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Exploring and Analyzing Data in Python  | Course  | Izzy Weber, George Boorman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [What's the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Shifting your mindset from amateur to professional analyst](https://towardsdatascience.com/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to form realistic expectations about data](https://towardsdatascience.com/how-to-form-realistic-expectations-about-data-622e85ab62cb)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
@@ -55,11 +55,11 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
-| Understanding Data Visualization  | Course  | Richie Cotton  | DataCamp  | 0.50  | [DataCamp subscription]()  |
-| Introduction to Data Visualization with Seaborn  | Course  | Erin Case  | DataCamp  | 1.00  | [DataCamp subscription]()  |
-| Intermediate Data Visualization with Seaborn  | Course  | Chris Moffitt  | DataCamp  | 1.00  | [DataCamp subscription]() |
-| Sampling in Python  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription]()  |
-| Hypothesis Testing in Python  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription]()  |
+| Understanding Data Visualization  | Course  | Richie Cotton  | DataCamp  | 0.50  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Introduction to Data Visualization with Seaborn  | Course  | Erin Case  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Intermediate Data Visualization with Seaborn  | Course  | Chris Moffitt  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex) |
+| Sampling in Python  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Hypothesis Testing in Python  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to spot a data charlatan](https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to Add Value as a Data Analyst](https://towardsdatascience.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
