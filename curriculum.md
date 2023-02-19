@@ -13,7 +13,7 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 | [Data Analysis in Excel](https://datacamp.pxf.io/7mRYmY)  | Course  | Jen Bricker  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Introduction to SQL](https://datacamp.pxf.io/Xx0JYG)  | Course  | Izzy Weber  | DataCamp  | 0.50  | Free  |
 | [Intermediate SQL](https://datacamp.pxf.io/BXm40B)  | Course  | Jasmin Ludolf  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Data Analysis in SQL (PostgreSQL)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | analyst40.com  | 0.20  | [Included in Analyst40](https://analyst40.com/)  |
 | **Project: SQL Data Analysis**  | Project  | You  | Deepnote  | 1.00  | Free  |
 | How to Create a Data Analyst Portfolio That Gets You Noticed  | PDF  | David Venturi  | analyst40.com  | 0.05  | [Included in Analyst40](https://analyst40.com/)  |
@@ -29,7 +29,7 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 | [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
 | [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
 | [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| Python Programming  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Python Programming](https://datacamp.pxf.io/x9V1kx)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | **Project: Python Programming**  | Project  | You  | Deepnote  | 2.00  | Free  |
 |   |   |   |   | **11.10**  |   |
 
@@ -46,8 +46,8 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 | [What's the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Shifting your mindset from amateur to professional analyst](https://towardsdatascience.com/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to form realistic expectations about data](https://towardsdatascience.com/how-to-form-realistic-expectations-about-data-622e85ab62cb)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| Importing & Cleaning Data with Python  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
-| Data Manipulation with Python  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Importing & Cleaning Data with Python](https://datacamp.pxf.io/kjDx4V)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Data Manipulation with Python](https://datacamp.pxf.io/15n4Gz)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | **Project: Exploratory Data Analysis**  | Project  | You  | Deepnote  | 2.00  | Free  |
 |   |   |   |   | **8.00**  |   |
 
@@ -63,10 +63,10 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 | [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to spot a data charlatan](https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to Add Value as a Data Analyst](https://towardsdatascience.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| Data Visualization Theory  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
-| Data Visualization with Python  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
-| Statistics Fundamentals with Python  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
-| Analytic Fundamentals  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Data Visualization Theory](https://datacamp.pxf.io/4eO4a3)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Data Visualization with Python](https://datacamp.pxf.io/2rb4RA)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Statistics Fundamentals with Python](https://datacamp.pxf.io/NK1jG1)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Analytic Fundamentals](https://datacamp.pxf.io/YgEZVr)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | **Project: Data Visualization**  | Project  | You  | Deepnote  | 2.00  | Free  |
 | [How expert analysts think about time](https://towardsdatascience.com/how-expert-analysts-think-about-time-6ae59573fe64)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
