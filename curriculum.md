@@ -37,12 +37,12 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
-| Chapters 1, 2 & 4 of Streamlined Data Ingestion with pandas  | Course  | Amany Mahfouz  | DataCamp  | 0.75  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Web Scraping in Python  | Course  | Thomas Laetsch  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Data Manipulation with pandas  | Course  | Richie Cotton, Maggie Matsui  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Joining Data with pandas  | Course  | Aaren Stubberfield  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Introduction to Statistics in Python  | Course  | Maggie Matsui  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Exploring and Analyzing Data in Python  | Course  | Izzy Weber, George Boorman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| Chapters 1, 2 & 4 of [Streamlined Data Ingestion with pandas](https://datacamp.pxf.io/e4ym11)  | Course  | Amany Mahfouz  | DataCamp  | 0.75  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Web Scraping in Python](https://datacamp.pxf.io/qn5Pzg)  | Course  | Thomas Laetsch  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Data Manipulation with pandas](https://datacamp.pxf.io/DV94yb)  | Course  | Richie Cotton, Maggie Matsui  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Joining Data with pandas](https://datacamp.pxf.io/9W4KLE)  | Course  | Aaren Stubberfield  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Introduction to Statistics in Python](https://datacamp.pxf.io/kjDxOV)  | Course  | Maggie Matsui  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Exploring and Analyzing Data in Python](https://datacamp.pxf.io/e4ym1Q)  | Course  | Izzy Weber, George Boorman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [What's the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Shifting your mindset from amateur to professional analyst](https://towardsdatascience.com/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to form realistic expectations about data](https://towardsdatascience.com/how-to-form-realistic-expectations-about-data-622e85ab62cb)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
