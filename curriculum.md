@@ -55,11 +55,11 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
-| Understanding Data Visualization  | Course  | Richie Cotton  | DataCamp  | 0.50  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Introduction to Data Visualization with Seaborn  | Course  | Erin Case  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Intermediate Data Visualization with Seaborn  | Course  | Chris Moffitt  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex) |
-| Sampling in Python  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Hypothesis Testing in Python  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Understanding Data Visualization](https://datacamp.pxf.io/JreDkv)  | Course  | Richie Cotton  | DataCamp  | 0.50  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Introduction to Data Visualization with Seaborn](https://datacamp.pxf.io/Xx0J43)  | Course  | Erin Case  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Intermediate Data Visualization with Seaborn](https://datacamp.pxf.io/WDWVOe)  | Course  | Chris Moffitt  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex) |
+| [Sampling in Python](https://datacamp.pxf.io/Ear40D)  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Hypothesis Testing in Python](https://datacamp.pxf.io/b34nkM)  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to spot a data charlatan](https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [How to Add Value as a Data Analyst](https://towardsdatascience.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
