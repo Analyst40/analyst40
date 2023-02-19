@@ -74,4 +74,5 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 |   |   |   |   | **7.00**  |   |
 
 **Total number of productive days** = 4.00 + 11.10 + 8.00 + 7.00 = **30.10 days**
-**Total number of rest days** = 10.00
+
+**Total number of rest days** = **10.00 days**
