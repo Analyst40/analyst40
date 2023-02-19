@@ -1,6 +1,6 @@
 # Analyst40 Curriculum
 
-In [Analyst40.com](https://analyst40.com/), 1 day is defined as 4 hours of productivity.
+In [Analyst40](https://analyst40.com/), 1 day is defined as 4 hours of productivity.
 
 A common measure in the tables below is 0.05 days, which is ~12 minutes.
 
