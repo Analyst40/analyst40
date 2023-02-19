@@ -10,9 +10,9 @@ A common measure in the tables below is 0.05 days, which is ~12 minutes.
 |---|---|---|---|---|---|
 | Welcome to Analyst40  | Email  | David Venturi  | analyst40.com  | 0.05  | [Included in Analyst40](https://analyst40.com/)  |
 | [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| Data Analysis in Excel  | Course  | Jen Bricker  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| Introduction to SQL  | Course  | Izzy Weber  | DataCamp  | 0.50  | Free  |
-| Intermediate SQL  | Course  | Jasmin Ludolf  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Data Analysis in Excel](https://datacamp.pxf.io/7mRYmY)  | Course  | Jen Bricker  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Introduction to SQL](https://datacamp.pxf.io/Xx0JYG)  | Course  | Izzy Weber  | DataCamp  | 0.50  | Free  |
+| [Intermediate SQL](https://datacamp.pxf.io/BXm40B)  | Course  | Jasmin Ludolf  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | Data Analysis in SQL (PostgreSQL)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | analyst40.com  | 0.20  | [Included in Analyst40](https://analyst40.com/)  |
 | **Project: SQL Data Analysis**  | Project  | You  | Deepnote  | 1.00  | Free  |
