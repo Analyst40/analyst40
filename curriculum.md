@@ -1,4 +1,4 @@
-# Initiation Curriculum
+# Data Maverick: Initiation Curriculum (30 Days of Learning)
 
 Note: For the tables below, 1 day is defined as 4 hours of productive time. A common measure is 0.05 days, which is ~10 minutes.
 
