@@ -1,6 +1,6 @@
 # Data Maverick: Initiation Curriculum
 
-30 days of the internet's best data analytics resources.
+30 days of the internet's best data analytics resources, curated by David Venturi for the Data Maverick community.
 
 Note: Below, 1 day is defined as 4 hours of productive time. A common measure is 0.05 days, which is ~10 minutes.
 
