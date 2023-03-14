@@ -6,15 +6,15 @@ Note: For the tables below, 1 day is defined as 4 hours of productive time. A co
 
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
-| Welcome to Analyst40  | Email  | David Venturi  | analyst40.com  | 0.05  | [Included in Analyst40](https://analyst40.com/)  |
+| Welcome to Data Maverick  | Email  | David Venturi  | Data Maverick  | 0.05  | [Included in Initiation](https://datamaverickinitiation.carrd.co/)  |
 | [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Data Analysis in Excel](https://datacamp.pxf.io/7mRYmY)  | Course  | Jen Bricker  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Introduction to SQL](https://datacamp.pxf.io/Xx0JYG)  | Course  | Izzy Weber  | DataCamp  | 0.50  | Free  |
 | [Intermediate SQL](https://datacamp.pxf.io/BXm40B)  | Course  | Jasmin Ludolf  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
-| How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | analyst40.com  | 0.20  | [Included in Analyst40](https://analyst40.com/)  |
+| How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | analyst40.com  | 0.20  | [Included in Initiation](https://datamaverickinitiation.carrd.co/)  |
 | **Project: SQL Data Analysis**  | Project  | You  | DataCamp Workspace  | 1.00  | Free  |
-| How to Create a Data Analyst Portfolio That Gets You Noticed  | PDF  | David Venturi  | analyst40.com  | 0.05  | [Included in Analyst40](https://analyst40.com/)  |
+| How to Create a Data Analyst Portfolio That Gets You Noticed  | PDF  | David Venturi  | analyst40.com  | 0.05  | [Included in Initiation](https://datamaverickinitiation.carrd.co/)  |
 | **Project: Start Building Your Online Presence**  | Project  | You  | GitHub & Medium or TikTok  | 0.10  | Free  |
 |   |   |   |   | **4.00**  |   |
 
