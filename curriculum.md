@@ -1,6 +1,8 @@
-# Data Maverick: Initiation Curriculum (30 Days of Learning)
+# Data Maverick: Initiation Curriculum
 
-Note: For the tables below, 1 day is defined as 4 hours of productive time. A common measure is 0.05 days, which is ~10 minutes.
+30 days of the internet's best data analytics resources.
+
+Note: Below, 1 day is defined as 4 hours of productive time. A common measure is 0.05 days, which is ~10 minutes.
 
 ## Introduction to Data Analysis
 
