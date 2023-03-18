@@ -10,9 +10,9 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 |---|---|---|---|---|---|
 | Welcome to Data Maverick  | Email  | David Venturi  | Data Maverick  | 0.05  | [Included in Initiation](https://maverickinitiation.carrd.co/)  |
 | [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y)  | Course  | Hillary Green-Lerman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
 | [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
+| [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y)  | Course  | Hillary Green-Lerman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Python Programming](https://datacamp.pxf.io/x9V1kx)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | Data Maverick  | 0.20  | [Included in Initiation](https://maverickinitiation.carrd.co/)  |
