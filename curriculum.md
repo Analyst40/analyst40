@@ -4,34 +4,22 @@
 
 Note: Below, 1 day is defined as 4 hours of productive time. A common measure is 0.05 days, which is ~10 minutes.
 
-## Introduction to Data Analysis
+## Python Programming
 
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
 | Welcome to Data Maverick  | Email  | David Venturi  | Data Maverick  | 0.05  | [Included in Initiation](https://maverickinitiation.carrd.co/)  |
 | [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| [Data Analysis in Excel](https://datacamp.pxf.io/7mRYmY)  | Course  | Jen Bricker  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [Introduction to SQL](https://datacamp.pxf.io/Xx0JYG)  | Course  | Izzy Weber  | DataCamp  | 0.50  | Free  |
-| [Intermediate SQL](https://datacamp.pxf.io/BXm40B)  | Course  | Jasmin Ludolf  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
-| How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | Data Maverick  | 0.20  | [Included in Initiation](https://maverickinitiation.carrd.co/)  |
-| **Project: SQL Data Analysis**  | Project  | You  | DataCamp Workspace  | 1.00  | Free  |
-| How to Create a Data Analyst Portfolio That Gets You Noticed  | PDF  | David Venturi  | Data Maverick  | 0.05  | [Included in Initiation](https://maverickinitiation.carrd.co/)  |
-| **Project: Start Building Your Online Presence**  | Project  | You  | GitHub & Medium or TikTok  | 0.10  | Free  |
-|   |   |   |   | **4.00**  |   |
-
-
-## Python Programming
-
-| Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
-|---|---|---|---|---|---|
 | [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y)  | Course  | Hillary Green-Lerman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
 | [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
 | [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Python Programming](https://datacamp.pxf.io/x9V1kx)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | Data Maverick  | 0.20  | [Included in Initiation](https://maverickinitiation.carrd.co/)  |
 | **Project: Python Programming**  | Project  | You  | DataCamp Workspace  | 2.00  | Free  |
-|   |   |   |   | **11.10**  |   |
+| How to Create a Data Analyst Portfolio That Gets You Noticed  | PDF  | David Venturi  | Data Maverick  | 0.05  | [Included in Initiation](https://maverickinitiation.carrd.co/)  |
+| **Project: Start Building Your Online Presence**  | Project  | You  | GitHub & Medium or TikTok  | 0.10  | Free  |
+|   |   |   |   | **11.55**  |   |
 
 ## Exploratory Data Analysis
 
@@ -73,6 +61,4 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 |   |   |   |   | **7.00**  |   |
 
-**Total number of productive days** = 4.00 + 11.10 + 8.00 + 7.00 = **30.10 days**
-
-**Total number of rest days** = **10.00 days**
+**Total number of productive days** = 11.55 + 8.00 + 7.00 = **26.55 days**
