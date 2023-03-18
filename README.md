@@ -4,13 +4,7 @@ The projects I created for my Initiation program, plus my reflections on the cou
 
 You can find my curriculum [here](/curriculum.md).
 
-## Project 1: Introduction to Data Analysis
-
-- [Embed link(s) to your course reflections for this section of the curriculum]
-- [Describe your project briefly here]
-- [Embed link to written report here]
-
-## Project 2: Python Programming
+## Project 1: Python Programming
 
 - [Embed link(s) to your course reflections for this section of the curriculum]
 - [Describe your project briefly here]
