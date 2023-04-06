@@ -1,6 +1,6 @@
-# Data Maverick: Data Analyst in Python
+# Data Maverick: Data Analyst Bootcamp
 
-The projects I created for my Data Analyst in Python program, plus my reflections on the courses I took and articles I read.
+The projects I created for my Data Analyst Bootcamp, plus my reflections on the courses I took and articles I read.
 
 You can find my curriculum [here](/curriculum.md).
 
