@@ -1,4 +1,4 @@
-# Data Maverick: Data Analyst in Python Curriculum
+# Data Maverick: Data Analyst Bootcamp Curriculum
 
 27 days of the internet's best data analytics in Python resources, curated by [David Venturi](https://davidanalyst.com/) for the Data Maverick community.
 
@@ -56,9 +56,25 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [Statistics Fundamentals with Python](https://datacamp.pxf.io/NK1jG1)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | [Analytic Fundamentals](https://datacamp.pxf.io/YgEZVr)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | **Project: Data Visualization**  | Project  | You  | DataCamp Workspace  | 2.00  | Free  |
+|   |   |   |   | **6.85**  |   |
+
+## SQL Data Analysis
+
+| Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
+|---|---|---|---|---|---|
+| [Introduction to SQL]()  | Course  | Richie Cotton  | DataCamp  | 0.50  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Intermediate SQL]()  | Course  | Erin Case  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Joining Data in SQL]()  | Course  | Chris Moffitt  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex) |
+| [Data Manipulation in SQL]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [PostgreSQL Summary Stats and Window Functions]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Functions for Manipulating Data in PostgreSQL]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Exploratory Data Analysis in SQL]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Data-Driven Decision Making in SQL]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [How expert analysts think about time](https://towardsdatascience.com/how-expert-analysts-think-about-time-6ae59573fe64)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
+| [Data Analysis in SQL (PostgreSQL)]()  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| **Project: SQL Data Analysis**  | Project  | You  | DataCamp Workspace  | 2.00  | Free  |
 | [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-|   |   |   |   | **7.00**  |   |
+|   |   |   |   | **9.70**  |   |
 
-**Total number of productive days** = 11.55 + 8.00 + 7.00 = **26.55 days**
+**Total number of productive days** = 11.55 + 8.00 + 6.85 + 9.70 = **36.10 days**
