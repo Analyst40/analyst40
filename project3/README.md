@@ -1,4 +1,4 @@
-# Project 3: Exploratory Data Analysis
+# Project 3: Data Visualization & Statistics
 
 - [Embed link(s) to your course reflections for this section of the curriculum]
 - [Describe your project briefly here]
