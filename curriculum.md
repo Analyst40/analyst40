@@ -13,13 +13,14 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
 | [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst)  | Course  | Charles Severance  | Coursera  | 4.00  | [Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst)  |
 | [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y)  | Course  | Hillary Green-Lerman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Introduction to ChatGPT](https://datacamp.pxf.io/NkKgbN)  | Course  | James Chapman  | DataCamp  | 0.25  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Python Programming](https://datacamp.pxf.io/x9V1kx)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | Data Maverick  | 0.20  | [Included in community membership](https://maverickinitiation.carrd.co/)  |
 | **Project: Python Programming**  | Project  | You  | DataCamp Workspace  | 2.00  | Free  |
 | How to Create a Data Analyst Portfolio That Gets You Noticed  | PDF  | David Venturi  | Data Maverick  | 0.05  | [Included in community membership](https://maverickinitiation.carrd.co/)  |
 | **Project: Start Building Your Online Presence**  | Project  | You  | GitHub & Medium or TikTok  | 0.10  | Free  |
-|   |   |   |   | **11.55**  |   |
+|   |   |   |   | **11.80**  |   |
 
 ## Exploratory Data Analysis
 
@@ -85,4 +86,4 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [DataCamp Professional Data Analyst Certification](https://datacamp.pxf.io/4Pe3WG)  | Certification  | DataCamp  | DataCamp  | 0.40  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 |   |   |   |   | **0.40**  |   |
 
-**Total number of productive days** = 11.55 + 8.00 + 6.85 + 9.70 + 0.40 = **36.5 days**
+**Total number of productive days** = 11.80 + 8.00 + 6.85 + 9.70 + 0.40 = **36.75 days**
