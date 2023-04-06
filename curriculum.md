@@ -62,19 +62,27 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 
 | Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
 |---|---|---|---|---|---|
-| [Introduction to SQL]()  | Course  | Richie Cotton  | DataCamp  | 0.50  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [Intermediate SQL]()  | Course  | Erin Case  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [Joining Data in SQL]()  | Course  | Chris Moffitt  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex) |
-| [Data Manipulation in SQL]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [PostgreSQL Summary Stats and Window Functions]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [Functions for Manipulating Data in PostgreSQL]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [Exploratory Data Analysis in SQL]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
-| [Data-Driven Decision Making in SQL]()  | Course  | James Chapman  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Introduction to SQL](https://datacamp.pxf.io/Xx0JYG)  | Course  | Izzy Weber  | DataCamp  | 0.50  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Intermediate SQL](https://datacamp.pxf.io/BXm40B)  | Course  | Jasmin Ludolf  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Joining Data in SQL](https://datacamp.pxf.io/zNaWe7)  | Course  | Maham Khan  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex) |
+| [Data Manipulation in SQL](https://datacamp.pxf.io/0ZJbxL)  | Course  | Mona Khalil  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [PostgreSQL Summary Stats and Window Functions](https://datacamp.pxf.io/EKakzn)  | Course  | Michel Semaan, Fernando Gonzalez Prada  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Functions for Manipulating Data in PostgreSQL](https://datacamp.pxf.io/nL1aRa)  | Course  | Brian Piccolo  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Exploratory Data Analysis in SQL](https://datacamp.pxf.io/ba3LD6)  | Course  | Christina Maimone  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+| [Data-Driven Decision Making in SQL](https://datacamp.pxf.io/6ebvP3)  | Course  | Irene Ortner, Tim Verdonck, Bart Baesens  | DataCamp  | 1.00  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [How expert analysts think about time](https://towardsdatascience.com/how-expert-analysts-think-about-time-6ae59573fe64)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-| [Data Analysis in SQL (PostgreSQL)]()  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
+| [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | **Project: SQL Data Analysis**  | Project  | You  | DataCamp Workspace  | 2.00  | Free  |
 | [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 |   |   |   |   | **9.70**  |   |
 
-**Total number of productive days** = 11.55 + 8.00 + 6.85 + 9.70 = **36.10 days**
+
+## Certification
+
+| Content name  | Type  | Instructor  | Platform  | Days  | Pricing  |
+|---|---|---|---|---|---|
+| [DataCamp Professional Data Analyst Certification](https://datacamp.pxf.io/4Pe3WG)  | Certification  | DataCamp  | DataCamp  | 0.40  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
+|   |   |   |   | **0.40**  |   |
+
+**Total number of productive days** = 11.55 + 8.00 + 6.85 + 9.70 + 0.40 = **36.5 days**
