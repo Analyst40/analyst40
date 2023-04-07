@@ -86,4 +86,4 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [DataCamp Professional Data Analyst Certification](https://datacamp.pxf.io/4Pe3WG)  | Certification  | DataCamp  | DataCamp  | 0.40  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 |   |   |   |   | **0.40**  |   |
 
-**Total number of productive days** = 11.80 + 8.00 + 6.85 + 9.70 + 0.40 = **36.25 days**
+**Total number of productive days** = 11.80 + 8.00 + 6.85 + 9.20 + 0.40 = **36.25 days**
