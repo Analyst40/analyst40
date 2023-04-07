@@ -74,9 +74,9 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [How expert analysts think about time](https://towardsdatascience.com/how-expert-analysts-think-about-time-6ae59573fe64)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
-| **Project: SQL Data Analysis**  | Project  | You  | DataCamp Workspace  | 2.00  | Free  |
+| **Project: SQL Data Analysis**  | Project  | You  | DataCamp Workspace  | 1.50  | Free  |
 | [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
-|   |   |   |   | **9.70**  |   |
+|   |   |   |   | **9.20**  |   |
 
 
 ## Certification
@@ -86,4 +86,4 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [DataCamp Professional Data Analyst Certification](https://datacamp.pxf.io/4Pe3WG)  | Certification  | DataCamp  | DataCamp  | 0.40  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 |   |   |   |   | **0.40**  |   |
 
-**Total number of productive days** = 11.80 + 8.00 + 6.85 + 9.70 + 0.40 = **36.75 days**
+**Total number of productive days** = 11.80 + 8.00 + 6.85 + 9.70 + 0.40 = **36.25 days**
