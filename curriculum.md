@@ -16,11 +16,11 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [Introduction to ChatGPT](https://datacamp.pxf.io/NkKgbN)  | Course  | James Chapman  | DataCamp  | 0.25  | [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex)  |
 | [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34)  | Article  | Cassie Kozyrkov  | Medium  | 0.05  | Free  |
 | [Python Programming](https://datacamp.pxf.io/x9V1kx)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
-| How to Create Engaging Python Projects  | Livestream with Q&A  | David Venturi  | Data Maverick  | 0.20  | [Included in community membership](https://datamaverickhq.com/)  |
+| How to Create Engaging Python Projects  | Livestream with Q&A  | David Venturi  | Data Maverick  | 0.10  | [Included in community membership](https://datamaverickhq.com/)  |
 | **Project: Python Programming**  | Project  | You  | DataCamp Workspace  | 2.00  | Free  |
 | How to Create a Data Analyst Portfolio That Gets You Noticed  | PDF  | David Venturi  | Data Maverick  | 0.05  | [Included in community membership](https://datamaverickhq.com/)  |
 | **Project: Start Building Your Online Presence**  | Project  | You  | GitHub & Medium or TikTok  | 0.10  | Free  |
-|   |   |   |   | **11.80**  |   |
+|   |   |   |   | **7.70**  |   |
 
 ## Exploratory Data Analysis
 
@@ -39,7 +39,7 @@ Note: Below, 1 day is defined as 4 hours of productive time. A common measure is
 | [Data Manipulation with Python](https://datacamp.pxf.io/15n4Gz)  | Skill Assessment  | DataCamp  | DataCamp  | 0.05  | Free  |
 | How to Create Engaging Data Analysis Projects  | Livestream with Q&A  | David Venturi  | Data Maverick  | 0.20  | [Included in community membership](https://datamaverickhq.com/)  |
 | **Project: Exploratory Data Analysis**  | Project  | You  | DataCamp Workspace  | 2.00  | Free  |
-|   |   |   |   | **8.00**  |   |
+|   |   |   |   | **8.20**  |   |
 
 ## Data Visualization & Statistics
 
