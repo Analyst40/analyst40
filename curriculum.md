@@ -1,6 +1,6 @@
 # Data Maverick: Data Analyst Bootcamp Curriculum
 
-36 days of the internet's best data analytics in Python resources, curated by [David Venturi](https://davidanalyst.com/) for the Data Maverick community.
+32 days of the internet's best data analytics in Python resources, curated by [David Venturi](https://davidanalyst.com/) for the Data Maverick community.
 
 Note: Below, 1 day is defined as 4 hours of productive time. A common measure is 0.05 days, which is ~10 minutes.
 
